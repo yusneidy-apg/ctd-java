@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ctd-java.iml" filepath="$PROJECT_DIR$/ctd-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo1/modulo1.iml" filepath="$PROJECT_DIR$/modulo1/modulo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo2/modulo2.iml" filepath="$PROJECT_DIR$/modulo2/modulo2.iml" />
     </modules>
   </component>
 </project>
