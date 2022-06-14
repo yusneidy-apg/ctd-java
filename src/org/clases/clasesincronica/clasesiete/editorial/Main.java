@@ -1,3 +1,4 @@
 package org.clases.clasesincronica.clasesiete.editorial;
 
-public class 
+public class Main {
+}
