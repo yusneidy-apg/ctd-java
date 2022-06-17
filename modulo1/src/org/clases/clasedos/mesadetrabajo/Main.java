@@ -1,4 +1,4 @@
-package org.clases.clasedos.cs;
+package org.clases.clasedos.mesadetrabajo;
 
 import java.util.Scanner;
 

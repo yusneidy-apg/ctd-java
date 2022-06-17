@@ -1,6 +1,5 @@
-package org.clases.clasedos.cs;
+package org.clases.clasedos.mesadetrabajo;
 
-import java.util.Scanner;
 /*
     Escribir una función que reciba tres números y devuelva el máximo entre los tres números.
     Integer maximoEntreTresNumeros(Integer unNumeroA, Integer unNumeroB, Integer

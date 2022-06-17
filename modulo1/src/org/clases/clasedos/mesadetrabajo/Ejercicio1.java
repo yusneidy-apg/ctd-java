@@ -1,4 +1,4 @@
-package org.clases.clasedos.cs;
+package org.clases.clasedos.mesadetrabajo;
 /*
     Hacer una función que dado un número indica si es un número primo o no. Un número
     primo es aquel que solo puede dividirse entre 1 y sí mismo. Por ejemplo: 25 no es primo,

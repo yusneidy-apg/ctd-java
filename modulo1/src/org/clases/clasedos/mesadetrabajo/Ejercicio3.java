@@ -1,4 +1,4 @@
-package org.clases.clasedos.cs;
+package org.clases.clasedos.mesadetrabajo;
 /*
     Escribir una función:
     boolean cadenasDeTextoDistintas(String unTextoA, String unTextoB)
